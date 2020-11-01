@@ -19,3 +19,5 @@ Celkem 2/100
    - "Předžvýkání" - 0.1 b
  - Kristy zařídí modré pivo (na svatbu) - 10 bodů
  - Jestli Kristy svolí Láďově rodině jít na hostinu i 3 dny před obřadem, dostane 5 bodů
+ - Naštvání na Láďu  -2 body
+ 
