@@ -11,5 +11,6 @@ Celkem 2/100
  - Víno - 1 l - 0.7 b
  - Romantická masáž - 1 hodina - 2 body
  - Prasečinky - dle Láďova uvážení (a kvality) - v intervalu (0, 2> body
+ - Předzpracovávání jídla - 0.5 b
  - Kristy zařídí modré pivo (na svatbu) - 10 bodů
  - Jestli Kristy svolí Láďově rodině jít na hostinu i 3 dny před obřadem, dostane 5 bodů
