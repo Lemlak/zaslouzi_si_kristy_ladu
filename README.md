@@ -1,9 +1,9 @@
 # Zaslouží si Kristy Láďu?
 Za 100 bodů je tvůj!
 
-Adventní kalendář 24 x 0.33 l piva - 2 body
-Obědy - 2.11. - 0.3
-Předžvýkání - 2.11. 0.1 
+- Adventní kalendář 24 x 0.33 l piva - 2 body
+- Obědy - 2.11. - 0.3
+- Předžvýkání - 2.11. 0.1 
 
 Celkem 2.4/100
 
