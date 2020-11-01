@@ -8,8 +8,8 @@ Za 100 bodů je tvůj!
 Celkem 2.4/100
 
 ## Bodování
- - Pivo - 1 l - 0.5 b
- - Víno - 1 l - 0.7 b
+ - Pivo - 1 l - 0.25 b
+ - Víno - 1 l - 0.35 b
  - Romantická masáž - 1 hodina - 2 body
  - Prasečinky - dle Láďova uvážení (a kvality) - v intervalu (0, 2> body
  - Příprava jídla:
