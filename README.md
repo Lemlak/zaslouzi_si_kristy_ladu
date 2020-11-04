@@ -2,13 +2,14 @@
 Za 100 bodů je tvůj!
 
 - Adventní kalendář 24 x 0.33 l piva - 2 body
-- Oběd - 1
+- Vino - 0.4 l
+- Oběd - 1.5
 - Svačina - 1
-- Večeře - 2
+- Večeře - 3
 - Prasečinky - 1
 - Předžvýkání - 1 
 
-Celkem 4.88/100
+Celkem 5.37/100
 
 ## Bodování
  - Pivo - 1 l - 0.25 b
