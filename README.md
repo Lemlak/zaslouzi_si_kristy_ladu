@@ -9,7 +9,7 @@ Za 100 bodů je tvůj!
 - Prasečinky - 1
 - Předžvýkání - 1 
 
-Celkem 5.37/100
+Celkem 5.87/100
 
 ## Bodování
  - Pivo - 1 l - 0.25 b
