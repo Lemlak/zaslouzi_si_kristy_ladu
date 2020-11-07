@@ -3,13 +3,8 @@ Za 100 bodů je tvůj!
 
 - Adventní kalendář 24 x 0.33 l piva - 2 body
 - Vino - 0.4 l
-- Oběd - 1.5
-- Svačina - 1
-- Večeře - 3
-- Prasečinky - 1
-- Předžvýkání - 1 
-
-Celkem 5.87/100
+- zbytek -> bodovani.ipynb
+Celkem 6.77/100
 
 ## Bodování
  - Pivo - 1 l - 0.25 b
@@ -24,3 +19,6 @@ Celkem 5.87/100
    - "Předžvýkání" - 0.1 b
  - Kristy zařídí modré pivo (na svatbu) - 10 bodů
  - Jestli Kristy svolí Láďově rodině jít na hostinu i 3 dny před obřadem, dostane 5 bodů
+ 
+ ### Upravy
+ - chyba v koeficientu u prasecinek - fixed
